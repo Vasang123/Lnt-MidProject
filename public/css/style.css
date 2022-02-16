@@ -1,0 +1,27 @@
+.banner{
+    background-color: #2B1111;
+}
+p{
+    font-size: 1.5em;
+}
+.isi{
+    border-radius: .5em;
+    background-color: rgb(255, 238, 238);
+}
+.judul{
+    font-size: 1.3em;
+}
+.halaman{
+    font-size: 1.3em;
+}
+.penulis{
+    font-size: .9em;
+    margin-bottom: 20px;
+}
+.tahun{
+    font-size: 1.1em;
+}
+
+.manage-table{
+    background-color: rgb(236, 216, 216);
+}
